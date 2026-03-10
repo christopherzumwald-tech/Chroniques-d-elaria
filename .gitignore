@@ -1,0 +1,44 @@
+# Fichiers de système
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.AppleDouble
+.LSOverride
+._*
+
+# Fichiers temporaires Word/LibreOffice
+~$*.docx
+~$*.odt
+*.tmp
+
+# Doublons à éviter
+*-1.*
+*-2.*
+*_old.*
+*_backup.*
+
+# Fichiers compilés
+*.pdf.bak
+*.docx.bak
+
+# Node
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
