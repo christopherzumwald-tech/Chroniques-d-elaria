@@ -1,0 +1,30 @@
+Elaria Final 28
+
+Bloc 5 — Réputation
+Principe
+Les joueurs ne voient pas directement leur réputation.
+Le MJ tient les comptes.
+Système
+Actions ﬁ coches
+6 coches = 1 niveau de réputation
+Réputation positive
+Apprécié (local)
+Respecté (régional)
+Héros (mondial)
+Réputation négative
+Criminel local
+Ennemi régional
+Ennemi public
+Réputation de groupe
+Basée sur la moyenne des membres.
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)

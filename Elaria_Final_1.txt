@@ -1,0 +1,43 @@
+Elaria Final 1
+
+Bloc 1 — Créatures
+Niveaux de dangerosité
+Normal
+Vétéran
+Supérieur
+Élite
+Boss
+Classes spéciales
+Apex — prédateur ultime d’un biome, très rare, puissance équivalente à Boss.
+Légendaire — créature unique par continent, plus puissante qu’un Apex.
+Créatures majestueuses — créatures de l’entrendeux (léviathans, méduses célestes, raies).
+Capacités selon niveau
+Normal : 2 capacités
+Vétéran : 3 capacités dont 1 niveau 1
+Supérieur : 4 capacités (max niveau 1, au moins une niveau 0)
+Élite : 1 niveau 2, 2 niveau 1, 1 niveau 0
+Boss : 2 niveau 2, 1 niveau 1, 1 niveau 0
+Équipement des créatures seminintelligentes
+Normal : armes simples corps à corps
+Vétéran : armes à distance simples (arc, fronde)
+Supérieur : magitek non magique récupérée (fusils, pistolets)
+Élite : artefacts magiques possibles
+Boss : accès complet à magie, artefacts et magitek
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)

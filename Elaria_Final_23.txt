@@ -1,0 +1,33 @@
+Elaria Final 23
+
+BLOC 5.4 - REACTIONS, INTERCEPTION ET
+ASSISTANCE
+Reaction
+- La reaction peut etre utilisee plus tard dans le round si une situation la declenche.
+- Certaines regles specifiques, comme l'interception ou l'arret d'un etat persistant, consomment la reaction.
+Interception
+- Tous les personnages possedent la capacite passive Interception.
+- Elle utilise la reaction.
+- Elle est limitee a 1 fois par combat.
+- Elle ne consomme pas le deplacement en tant que ressource distincte, mais sa portee depend du
+deplacement restant disponible.
+- Un minimum de 1 metre de deplacement restant est requis pour pouvoir intercepter.
+- La portee maximale d'interception est egale au deplacement restant du personnage.
+Effet de l'interception
+- Si l'allie peut reculer ou liberer la place, l'intercepteur prend sa place et l'attaque est redirigee vers lui.
+- Sinon, un jet oppose de FOR peut repousser l'ennemi d'un metre.
+- Si l'intercepteur finit a portee d'arme ou au corps a corps, il prend l'engagement.
+- Sinon, il prend l'agro ou devient la cible prioritaire selon la situation.
+Assistance entre joueurs
+- Les joueurs peuvent assister un allie s'ils sont a portee d'intervention.
+- Le joueur ayant l'initiative la plus elevee effectue l'action principale.
+- Les autres apportent un bonus d'assistance.
+Bonus d'assistance
+Nombre d'assistants
+Bonus maximum
+1
+2
+3 ou plus
++1
++2
++3 maximum

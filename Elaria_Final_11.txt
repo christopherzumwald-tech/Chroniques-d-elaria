@@ -1,0 +1,12 @@
+Elaria Final 11
+
+ELARIA — Bloc 3.4 : Armures et boucliers
+Bijoux
+Maximum 2 bijoux équipés.
+Impossible de porter deux bonus identiques de statistique.
+Armure
+1 amélioration maximum.
+Amélioration uniquement défensive.
+Bouclier
+1 amélioration maximum.
+Amélioration uniquement défensive.

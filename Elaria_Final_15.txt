@@ -1,0 +1,31 @@
+Elaria Final 15
+
+BLOC 4.1 — STATISTIQUES ET SYSTÈME DE JET
+Statistiques (10)
+FOR
+AGI
+END
+INT
+SAG
+PRE
+TEC
+VOL
+CHA
+MAG
+Force
+Agilité
+Endurance
+Intelligence
+Sagesse
+Précision
+Technique
+Volonté
+Charisme
+Magie
+Jets d20 opposés
+Attaque : 1d20 + statistique + bonus équipement
+Défense possible : AGI (esquive) / END (encaisser) / FOR (blocage arme) / MAG (défense
+magique)
+Dégâts
+Les dégâts proviennent uniquement de l’arme ou d’une capacité. Les statistiques n’ajoutent jamais
+de dégâts.

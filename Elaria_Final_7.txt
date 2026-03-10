@@ -1,0 +1,30 @@
+Elaria Final 7
+
+Bloc 2 — Moteur de combat
+Structure d’un tour
+Mouvement : AGI / 2 cases
+Action : une seule par tour
+Réaction : esquive, blocage, encaissement ou interception
+Initiative
+Initiative = AGI + bonus
+Égalité joueurs : discussion ou jet
+Égalité joueur/ennemi : joueur prioritaire
+Engagement
+Un personnage est engagé s’il est à portée d’arme et attaqué.
+Désengagement
+Peut utiliser une action ou une réaction.
+Permet de quitter un combat sans attaque d’opportunité.
+Interception
+Nécessite une réaction et être désengagé.
+Test de force possible pour prendre la place de la cible.
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)

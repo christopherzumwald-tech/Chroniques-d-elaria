@@ -1,0 +1,18 @@
+Elaria Final 10
+
+ELARIA — Bloc 3.3 : Armes
+Dégâts des armes
+Les dégâts d’une arme sont fixes.
+Dague : 1d2
+Arme une main : 1d4
+Arme lourde : 1d8
+Arme à distance : 1d4
+Améliorations d’armes
+Les améliorations ne modifient jamais les dégâts.
+Elles modifient seulement statistiques, précision, portée ou parade.
+Améliorations selon type d’arme
+Dague : 2 améliorations
+Arme une main : 4 améliorations
+Arme lourde : 5 améliorations
+Arme longue : 3 améliorations
+Arme à distance : 3 améliorations

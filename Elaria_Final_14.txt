@@ -1,0 +1,20 @@
+Elaria Final 14
+
+Bloc 3 — Défense et dégâts
+Dégâts
+Les dégâts correspondent directement aux dégâts de l’arme.
+Armures
+Aucune armure : dégâts complets
+Armure légère : -1 dégât
+Armure lourde : -2 dégâts
+Réactions défensives
+Esquiver
+Bloquer
+Encaisser
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)

@@ -1,0 +1,39 @@
+Elaria Final 26
+
+BLOC 5.7 - ESSAIMS, ECHELLE DE PUISSANCE
+ET GRANDES CREATURES
+Essaims de creatures
+- Les essaims de petites creatures sont traites comme une seule entite.
+- Les PV de l'essaim representent le nombre d'individus.
+- Les creatures de taille moyenne sont traitees comme des individus distincts.
+Echelle de puissance validee
+Rang
+Definition courte
+Commun
+Creature ordinaire du bestiaire.
+Renforce
+Version legerement plus dangereuse.
+Superieur
+Niveau nettement plus eleve.
+Elite
+Boss
+Adversaire majeur, plus rare.
+Ennemi majeur d'une zone ou d'un evenement.
+Boss Apex
+Version plus rare et plus puissante d'un Boss.
+Titan
+Creature d'une puissance exceptionnelle depassant les standards du
+bestiaire.
+Boss et Boss Apex
+- Plusieurs Boss peuvent exister dans le monde.
+- Un Boss Apex est plus rare et plus puissant qu'un Boss standard du meme type.
+- Un Boss Apex n'est pas forcement unique.
+Titans
+- Titan designe une creature definie par sa puissance exceptionnelle, pas par sa taille.
+- Un Titan peut etre gigantesque, de taille normale ou petit.
+- La puissance peut venir de statistiques tres elevees, de capacites uniques, d'un total de PV hors norme, ou
+d'une combinaison de ces elements.
+Sous-types frequents de Titans
+- Creatures legendaires.
+- Creatures majestueuses.
+- Autres entites equivalentes exceptionnellement puissantes.

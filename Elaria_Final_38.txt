@@ -1,0 +1,63 @@
+Elaria Final 38
+
+Bloc 8.9 – Mise a Jour Regles (Partie 1)
+ELARIA – BLOC 6 : MISES À JOUR DES RÈGLES
+(Compilation Session)
+Bloc 6.1 – Progression officielle des Points de Vie
+PV niveau 1 :
+PV = 5 + END + nFOR / 2n
+Gain de PV par niveau :
++1 PV + nEND / 6n
+(arrondi inférieur)
+Objectif :
+Maintenir une progression équilibrée entre niveau 1 et niveau 20 tout en conservant
+l’intérêt de la statistique END pour la survie.
+Conséquences systémiques :
+– personnages fragiles niveau 20 : ~25–30 PV
+– personnages moyens niveau 20 : ~45–55 PV
+– personnages robustes niveau 20 : ~55–65 PV
+Bloc 6.2 – Règle de conception des capacités
+Principe :
+Une capacité ne peut jamais reproduire une action de base ou une réaction de base du système.
+Les capacités doivent toujours :
+– modifier une mécanique existante
+– ajouter un effet
+– déclencher une interaction tactique
+Les capacités ne peuvent jamais :
+– remplacer une attaque normale
+– remplacer une esquive
+– remplacer un blocage
+– remplacer une action simple du système.
+Bloc 6.3 – Liste des actions de base interdites pour les capacités
+Actions :
+– Attaquer avec une arme
+– Se déplacer
+– Désengager
+– Utiliser un objet
+– Utiliser une potion
+– Interaction simple avec l’environnement
+ Réactions :
+– Esquiver
+– Bloquer
+– Encaisser
+– Attaque d’opportunité
+– Interception
+Bloc 6.4 – Structure minimale des capacités des personnages
+Chaque personnage commence avec 4 capacités de niveau 0 :
+1 capacité offensive
+1 capacité défensive
+1 capacité de soutien
+1 capacité unique
+Les capacités niveau 0 :
+– peuvent être modifiées librement par le joueur
+– deviennent fixes lorsqu’un point d’amélioration est investi
+Amélioration des capacités :
+– maximum 5 améliorations entre niveau 1 et niveau 20
+– build optimal typique : 2 / 2 / 1 / 0
+– niveau maximal normal d’une capacité : niveau 2
+Endgame :
+Une seule capacité peut atteindre niveau 3 si le MJ l’autorise.
+Bloc 6.5 – Effets ajoutés lors de l’amélioration d’une capacité
+Lorsqu’une capacité est améliorée :
+niveau 1 :
+le

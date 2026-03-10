@@ -1,0 +1,27 @@
+Elaria Final 36
+
+Bloc 8.6 – Points de Vie et Soins
+BLOC 5.6 - POINTS DE VIE, SOINS ET
+RECUPERATION
+Principes generaux
+- Les PV representent l'etat physique global d'un personnage.
+- Les PV peuvent etre recuperes par potions, soins medicaux, magie de soin ou repos.
+- Les soins instantanes ne peuvent jamais restaurer 100 % des PV.
+Niveaux de recuperation
+Niveau de soin Recuperation
+Niveau 1 30 % des PV max
+Niveau 2 60 % des PV max
+Niveau 3 90 % des PV max
+Recuperation complete
+- Un personnage peut recuperer 100 % de ses PV uniquement par repos complet, nourriture ou
+soins
+medicaux.
+Cas d'un personnage a 0 PV
+- Un personnage tombe a 0 PV ne peut pas recuperer plus de 50 % de ses PV avec magie ou
+potions.
+Temps de recuperation
+Lieu Temps
+Auberge niveau 1 48 heures
+Auberge niveau 2 24 heures
+Auberge niveau 3 12 heures
+Medecin specialise Instantane (cout eleve)

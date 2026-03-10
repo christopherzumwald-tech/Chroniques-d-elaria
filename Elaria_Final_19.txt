@@ -1,0 +1,55 @@
+Elaria Final 19
+
+BLOC 4.5 — ARMES, ARMURES ET
+AMÉLIORATIONS
+Catégories d’armes
+Catégorie
+Dague
+Arme à une main
+Arme flexible
+Arme longue 1 main
+Arme longue 2 mains
+Arme à distance
+Arme lourde
+Poids des armes
+Type
+Dague
+Longue / distance
+Arme à une main
+Arme lourde
+Dégâts
+Portée
+Stat
+1d2
+1d4
+1d4
+1d4
+1d6
+1d4
+1d8
+1 m
+1 m
+3 m
+2 m
+3 m
+variable
+2 m
+AGI/FOR
+AGI/FOR
+TEC
+FOR
+FOR
+PRE
+FOR
+Poids
+0
+1
+2
+3
+Armures
+Armure légère : -1 dégât physique. Armure lourde : -2 dégâts physiques.
+Améliorations d’armes
+Une arme ne peut pas recevoir deux fois la même amélioration et ne peut posséder qu’un seul effet
+spécial (physique ou élémentaire).
+Application d’état par arme : après une attaque réussie, lancer une pièce. Face = état appliqué ;
+Pile = état non appliqué.

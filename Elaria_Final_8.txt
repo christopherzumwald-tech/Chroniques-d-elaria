@@ -1,0 +1,25 @@
+Elaria Final 8
+
+ELARIA — Bloc 3.1 : Création de personnage
+Statistiques
+FOR — Force
+AGI — Agilité
+END — Endurance
+INT — Intelligence
+SAG — Sagesse
+PRE — Précision
+TEC — Technique
+VOL — Volonté
+CHA — Charisme
+MAG — Magie
+Répartition des statistiques
+Chaque statistique commence à 1.
+Le joueur possède 40 points à répartir.
+Maximum à la création : 10.
+Maximum absolu avec équipement : 13 (+3 équipement).
+Capacités de départ
+Chaque personnage commence avec 4 capacités.
+1 capacité Combat.
+1 capacité Soutien.
+1 capacité Contrôle.
+1 capacité Utilitaire.

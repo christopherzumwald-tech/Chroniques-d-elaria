@@ -1,0 +1,35 @@
+Elaria Final 29
+
+Bloc 6 — Métiers et dresseur
+Progression des métiers
+Trouver un maître
+Payer une cotisation
+Passer un examen (jet D20 + TEC)
+Downtime
+Les activités de progression se font pendant les périodes de repos en ville.
+Artisanat
+Nécessite un atelier ou un campement.
+Ateliers portables
+Permettent seulement les fabrications niveau 1.
+Dresseur
+Apprenti : 1 animal
+Compagnon : 2 animaux
+Maître : 3 animaux
+Grand maître : collection libre (3 en combat)
+Capture d’animaux
+Nourriture adaptée
+Jet de TEC
+3 ressources nécessaires
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)
+(cid:127)

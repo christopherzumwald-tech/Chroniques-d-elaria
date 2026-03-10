@@ -1,0 +1,17 @@
+Elaria Final 12
+
+ELARIA — Bloc 3.5 : Capacités
+Types de capacités
+Combat
+Soutien
+Contrôle
+Utilitaire
+Amélioration des capacités
+Entre le niveau 1 et 20 : 5 points d’amélioration maximum.
+Une capacité ne peut recevoir que 2 améliorations.
+Cooldown
+Le cooldown dépend des variables de la capacité.
+Le cooldown est exprimé en tours.
+Exception dégâts
+Certaines capacités utilisent les dégâts de l’arme comme base.
+Les bonus viennent uniquement de la capacité.

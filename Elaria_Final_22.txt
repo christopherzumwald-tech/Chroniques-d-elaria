@@ -1,0 +1,34 @@
+Elaria Final 22
+
+BLOC 5.3 - ETATS ET BLESSURES GRAVES
+Regle generale des etats
+- Un personnage ne peut avoir qu'un seul etat actif a la fois.
+Resolution des conflits d'etats
+- L'etat provenant de la source la plus puissante prend le dessus.
+- En cas d'egalite de puissance, le plus recent remplace l'ancien.
+Regle valide fixee dans cette conversation : l'ancienne version utilisant un tirage aleatoire pour departager
+plusieurs etats n'est plus retenue.
+Duree standard
+- Niveau 1 : 1 tour.
+- Niveau 2 : 2 tours.
+Etats persistants
+- Feu, poison et saignement durent jusqu'a la fin du combat tant qu'ils ne sont pas stoppees.
+- Un personnage peut tenter d'y mettre fin en utilisant soit son action, soit sa reaction, a condition que celle-ci
+ne soit pas deja utilisee pendant le tour.
+Blessure grave : fracture
+- La fracture represente une blessure physique importante.
+- Effets : reduction de FOR, AGI et END.
+- Conditions d'apparition possibles : reussite critique d'un adversaire, echec critique, chute importante ou
+choc violent.
+- Potions et magie peuvent stabiliser la blessure mais ne la guerissent pas totalement.
+Guerison d'une fracture
+Lieu
+Auberge niveau 1
+Auberge niveau 2
+Auberge niveau 3
+Medecin
+Temps de guerison
+48 heures
+24 heures
+12 heures
+Instantane (cout eleve)

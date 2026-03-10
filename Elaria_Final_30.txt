@@ -1,0 +1,29 @@
+Elaria Final 30
+
+Bloc 8.1 – Statistiques et Jets
+BLOC 5.1 - STATISTIQUES, JETS ET DEGATS
+Statistiques officielles
+Abreviation Statistique Role principal
+Puissance physique, blocage, armes lourdes ou
+FOR Force
+longues.
+AGI Agilite Esquive, initiative, deplacement.
+END Endurance Resistance physique, capacite a encaisser.
+INT Intelligence Analyse, connaissances, raisonnement.
+SAG Sagesse Perception, jugement, intuition.
+PRE Precision Tir, visee, exactitude des armes a distance.
+TEC Technique Maitrise technique, armes flexibles, execution propre.
+VOL Volonte Resistance mentale, determination.
+CHA Charisme Influence sociale, presence.
+MAG Magie Usage et defense magique.
+Jets d20 opposes
+- Attaque : 1d20 + statistique appropriee + bonus d'equipement.
+- Defense possible : AGI pour esquive, END pour encaisser, FOR pour blocage avec arme, MAG
+pour
+defense magique.
+- Le choix de la statistique depend de la nature de l'action ou de la defense.
+Degats
+- Les degats proviennent uniquement d'une arme ou d'une capacite.
+- Les statistiques n'ajoutent jamais directement de degats.
+- Les bonus d'equipement ou effets speciaux peuvent modifier la resolution selon la regle
+concernee.

@@ -1,0 +1,20 @@
+Elaria Final 9
+
+ELARIA — Bloc 3.2 : Système de combat
+Structure d’un tour
+1 déplacement
+1 action
+1 réaction
+Déplacement
+Déplacement = AGI / 2 mètres.
+Le déplacement se fait avant l’action.
+Le déplacement restant peut être utilisé pour des réactions.
+Attaque
+Jet d’attaque : 1d20 + statistique appropriée.
+Comparé à la défense de la cible.
+Réactions défensives
+Esquive (AGI)
+Encaisser (END)
+Bloquer (FOR)
+Défense magique (MAG)
+Interception (1 fois par combat)

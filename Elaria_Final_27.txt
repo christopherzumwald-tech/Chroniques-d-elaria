@@ -1,0 +1,18 @@
+Elaria Final 27
+
+BLOC 5.8 - ZONES, MODULES TACTIQUES ET
+OPTIONS
+Attaques de zone
+- Une attaque de zone affecte toutes les cibles presentes dans la zone.
+- La zone est definie par une case cible et une distance d'expansion.
+- Toutes les cibles subissent les memes degats.
+- Les cibles peuvent tenter d'esquiver ou de se proteger avec leur reaction.
+Flanking
+- Condition : deux personnages engages sur les cases adjacentes d'un ennemi.
+- Effet : +1 attaque.
+Encerclement
+- Condition : trois adversaires ou plus autour d'une cible.
+- Effet : avantage tactique naturel sans bonus mecanique supplementaire.
+Statut de ces modules
+- Certaines de ces regles sont considerees comme optionnelles.
+- Elles peuvent etre activees ou retirees sans casser le systeme.

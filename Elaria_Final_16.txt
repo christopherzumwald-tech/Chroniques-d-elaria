@@ -1,0 +1,12 @@
+Elaria Final 16
+
+BLOC 4.2 — TOUR DE JEU ET ACTIONS
+Structure du tour
+Chaque personnage possède : 1 déplacement, 1 action, 1 réaction.
+Déplacement
+Distance maximale : AGI ÷ 2 mètres.
+Le déplacement peut être fractionné en deux segments maximum ou ne pas être utilisé.
+Action
+L’action doit être utilisée pendant le tour du personnage. Si elle n’est pas utilisée, elle est perdue.
+Réaction
+La réaction peut être utilisée plus tard dans le round si une situation la déclenche.

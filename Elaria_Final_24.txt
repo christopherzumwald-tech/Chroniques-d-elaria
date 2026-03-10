@@ -1,0 +1,62 @@
+Elaria Final 24
+
+BLOC 5.5 - ARMES, ARMURES ET
+AMELIORATIONS
+Categories d'armes
+Categorie
+Dague
+Arme a une main
+Arme flexible
+Arme longue 1 main
+Arme longue 2 mains
+Arme a distance
+Arme lourde
+Degats
+Portee
+Stat principale
+1d2
+1d4
+1d4
+1d4
+1d6
+1d4
+1d8
+1 m
+1 m
+3 m
+2 m
+3 m
+Variable
+2 m
+AGI / FOR
+AGI / FOR
+TEC
+FOR
+FOR
+PRE
+FOR
+Poids des armes
+Type
+Dague
+Armes longues / armes a distance
+Arme a une main
+Arme lourde
+Armures
+- Armure legere : -1 degat physique.
+- Armure lourde : -2 degats physiques.
+Ameliorations d'armes
+Poids abstrait
+0
+1
+2
+3
+- Une arme ne peut pas recevoir deux fois la meme amelioration.
+- Une arme peut avoir un seul effet special : soit physique, soit elementaire, jamais les deux.
+- Les ameliorations non-effet comme precision, vitesse, parade, extension de portee, contournement ou
+equivalent peuvent se cumuler si la categorie d'arme l'autorise.
+- Les types d'ameliorations accessibles sont limites par categorie d'arme afin de preserver leur role tactique.
+Application d'un etat via une arme amelioree
+- Apres une attaque reussie, l'application de l'etat lie a l'amelioration se resout par un jet simple de Chance
+50 / 50.
+ - Si le jet reussit, l'etat s'applique.
+- Sinon, il ne s'applique pas.

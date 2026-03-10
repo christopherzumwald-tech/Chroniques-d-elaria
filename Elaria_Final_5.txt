@@ -1,0 +1,16 @@
+Elaria Final 5
+
+ELARIA — Bloc 2.4 : Créatures et XP
+Rangs de créatures
+Normal
+Vétéran
+Supérieur
+Élite
+Boss
+Classes spéciales
+Apex : prédateur dominant d’un biome.
+Légendaire : créature unique.
+Majestueux : créature gigantesque.
+XP
+XP = Grade × Niveau de base
+Normal =1, Vétéran=2, Supérieur=3, Élite=5, Boss=8

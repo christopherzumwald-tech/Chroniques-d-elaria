@@ -1,0 +1,23 @@
+Elaria Final 32
+
+Bloc 8.2 – Initiative et Tour de Jeu
+BLOC 5.2 - TOUR DE JEU, DEPLACEMENT ET
+INITIATIVE
+Structure du tour
+- Chaque personnage possede 1 deplacement, 1 action et 1 reaction.
+- L'action doit etre utilisee pendant le tour du personnage. Si elle n'est pas utilisee, elle est perdue.
+- La reaction peut etre utilisee plus tard dans le round si une situation la declenche.
+Deplacement
+- Distance maximale : AGI / 2 metres.
+- Le deplacement peut etre fractionne en deux segments maximum.
+- Le deplacement non utilise peut etre conserve si une regle specifique l'autorise, notamment pour
+certaines
+reactions.
+Regle valide de cette conversation : le deplacement ne doit pas etre compresse ni transforme en
+sous-systeme plus complexe. La base reste AGI / 2 metres, utilisable en deux segments maximum.
+Initiative
+- L'initiative est determinee par l'AGI.
+- En cas d'egalite, comparer la Chance.
+- Si AGI et Chance sont encore identiques, utiliser le Jet du Destin.
+- Le Jet du Destin est un pile ou face.
+- Si plusieurs egalites existent en meme temps, la resolution peut se faire en tournoi de departage.

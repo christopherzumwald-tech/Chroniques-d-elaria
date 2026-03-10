@@ -1,0 +1,12 @@
+Elaria Final 18
+
+BLOC 4.4 — INTERCEPTION
+Règle
+Tous les personnages possèdent la capacité passive Interception.
+Elle utilise la réaction et peut être utilisée une fois par combat.
+Portée
+La portée maximale d’interception est égale au déplacement restant du personnage.
+Un minimum de 1 mètre de déplacement disponible est requis.
+Effet
+L’intercepteur peut prendre la place de l’allié ciblé. Sinon un jet opposé de FOR peut repousser
+l’ennemi d’un mètre.

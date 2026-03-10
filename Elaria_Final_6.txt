@@ -1,0 +1,15 @@
+Elaria Final 6
+
+ELARIA — Bloc 2.5 : Systèmes MJ et Addons
+Rumeurs et enquêtes
+Les actions visibles des joueurs peuvent générer des rumeurs.
+Des enquêtes peuvent apparaître selon les traces laissées.
+Réputation
+6 coches positives = +1 réputation
+6 coches négatives = -1 réputation
+Échelle : -5 à +5
+Addons tactiques optionnels
+Flanc : +2 attaque si cible prise entre deux ennemis.
+Attaque coordonnée : +1 attaque pour le second attaquant.
+Terrain avantageux : +1 attaque ou défense.
+Pression : jet AGI (12) pour se désengager si encerclé.
