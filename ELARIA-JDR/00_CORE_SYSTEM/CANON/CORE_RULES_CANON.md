@@ -1,0 +1,1 @@
+<Content of CORE_RULES_CANON.md>
