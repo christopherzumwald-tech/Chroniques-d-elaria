@@ -1,20 +1,29 @@
 # 00_CORE_SYSTEM
 
 Ce dossier contient les règles fondamentales du système de jeu d'Élaria.
-La version canonique et à jour est **BLOC_06_Mises_a_jour_des_Regles.txt** — c'est le seul document faisant référence pour toute règle en vigueur.
+
+La version **canonique** et à jour est **[CORE_RULES_CANON.md](./CORE_RULES_CANON.md)** — c'est le seul document faisant référence pour toute règle en vigueur.
+
+Le fichier **[BLOC_06_Mises_a_jour_des_Regles.txt](./BLOC_06_Mises_a_jour_des_Regles.txt)** est conservé comme **historique / notes de compilation**.
 Les fichiers BLOC_04_\* et BLOC_05_\* sont conservés à titre d'archives et de comparaison historique.
 
 ---
 
 ## Où commencer (canon)
 
-- 📖 **[BLOC_06_Mises_a_jour_des_Regles.txt](./BLOC_06_Mises_a_jour_des_Regles.txt)** — référence canonique officielle
+- 📖 **[CORE_RULES_CANON.md](./CORE_RULES_CANON.md)** — référence canonique officielle
+
+---
+
+## Références (historique)
+
+- 🗂️ [BLOC_06_Mises_a_jour_des_Regles.txt](./BLOC_06_Mises_a_jour_des_Regles.txt) — historique / compilation de session
 
 ---
 
 ## Ce que contient ce dossier
 
-Basé sur les sections de BLOC_06 :
+Basé sur les sections de la version canonique :
 
 - **PV & progression** : formule officielle niveau 1 et gain par niveau (arrondi inférieur)
 - **Capacités** : règles de design, nombre de départ (4 capacités niv. 0), limite d'améliorations et cap de niveau
@@ -29,7 +38,7 @@ Basé sur les sections de BLOC_06 :
 ## Documents plus anciens (référence)
 
 Les fichiers ci-dessous sont des **versions antérieures** des règles, marquées `[NOTE]`.
-Ils sont conservés pour comparaison uniquement et **ne font pas référence** — en cas de contradiction, BLOC_06 prévaut.
+Ils sont conservés pour comparaison uniquement et **ne font pas référence** — en cas de contradiction, **CORE_RULES_CANON.md** prévaut.
 
 ### Série BLOC_04 (version initiale)
 
