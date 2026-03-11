@@ -3,6 +3,8 @@
 ## Overview
 Elaria is a tabletop role-playing game (JDR) that immerses players into a rich world filled with adventure, magic, and exploration. This document provides detailed information about the game mechanics, character creation, and lore that brings Elaria to life.
 
+📚 Règles JDR (source) : voir [`ELARIA-JDR/README.md`](ELARIA-JDR/README.md).
+
 ## Structure du projet — ELARIA-JDR/
 
 Les règles du jeu sont organisées dans le dossier [`ELARIA-JDR/`](ELARIA-JDR/) selon la structure suivante :
