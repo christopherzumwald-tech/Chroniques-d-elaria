@@ -3,6 +3,11 @@
 Ce dossier est la **source de vérité** pour toutes les règles du jeu de rôle Élaria.  
 Chaque sous-dossier regroupe les blocs de règles par thème ; chaque fichier suit une convention de nommage stable pour faciliter la navigation, y compris sur mobile.
 
+## Sommaire
+
+- [Structure](#structure)
+- [Convention de nommage](#convention-de-nommage)
+
 ---
 
 ## Structure
