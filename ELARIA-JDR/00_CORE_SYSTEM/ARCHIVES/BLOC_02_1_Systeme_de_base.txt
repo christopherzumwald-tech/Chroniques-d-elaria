@@ -28,4 +28,4 @@ Critiques
 PV = 5 + END + floor(FOR / 2)
 Initiative
 Initiative = AGI + bonus.
-En cas d’égalité : comparer AGI, puis Chance.Content of the original file goes here...
+En cas d’égalité : comparer AGI, puis Chance.
