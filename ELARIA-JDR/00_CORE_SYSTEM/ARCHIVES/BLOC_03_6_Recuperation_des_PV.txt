@@ -1,0 +1,13 @@
+Elaria Final 13
+
+ELARIA — Bloc 3.6 : Récupération des PV
+KO
+À 0 PV un personnage devient inconscient.
+Récupération normale
+Repos, nourriture, potions ou soins légers.
+Limite après KO
+Aucun moyen simple ne peut dépasser 50 % des PV maximum.
+Récupération complète
+Auberge niveau 2 : 24 heures.
+Auberge niveau 3 : 12 heures.
+Soins d’un médecin : récupération complète mais coûteuse.
