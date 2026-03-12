@@ -1,0 +1,50 @@
+---
+source: ELARIA-JDR/00_CORE_SYSTEM/ARCHIVES/BLOC_02_1_Systeme_de_base.txt
+last_updated: 2026-03-12
+---
+
+# ELARIA — Bloc 2.1 : Système de base
+
+## Statistiques
+
+- **FOR** — Force
+- **AGI** — Agilité
+- **END** — Endurance
+- **INT** — Intelligence
+- **SAG** — Sagesse
+- **PRE** — Précision
+- **TEC** — Technique
+- **VOL** — Volonté
+- **CHA** — Charisme
+- **MAG** — Magie
+- **Chance** : valeur fixe obtenue à la création (1d20).
+
+## Jet standard
+
+Formule : `1d20 + statistique + bonus`.  
+Comparé à une difficulté ou à un jet opposé.
+
+## Difficultés standards
+
+| Difficulté    | Seuil |
+|---------------|-------|
+| Facile        | 8     |
+| Standard      | 12    |
+| Difficile     | 16    |
+| Très difficile| 20    |
+
+## Critiques
+
+- **1 naturel** : échec critique.
+- **20 naturel** : réussite critique.
+
+## Points de vie
+
+```
+PV = 5 + END + floor(FOR / 2)
+```
+
+## Initiative
+
+Initiative = AGI + bonus.  
+En cas d'égalité : comparer AGI, puis Chance.

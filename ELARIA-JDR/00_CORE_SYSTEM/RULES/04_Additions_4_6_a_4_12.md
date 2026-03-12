@@ -1,0 +1,106 @@
+---
+source: ELARIA-JDR/00_CORE_SYSTEM/ARCHIVES/BLOC_04_Additions_4_6_a_4_12.txt
+last_updated: 2026-03-12
+---
+
+# ELARIA — Bloc 4 Additions (4.6 à 4.12)
+
+## 4.6 — Soins et récupération des PV
+
+Les PV représentent l'état physique global d'un personnage.  
+Les PV peuvent être récupérés par potions, soins médicaux, magie de soin ou repos.  
+Les soins instantanés ne peuvent jamais restaurer 100 % des PV.
+
+| Niveau de soin | Récupération       |
+|----------------|--------------------|
+| Niveau 1       | 30 % des PV max    |
+| Niveau 2       | 60 % des PV max    |
+| Niveau 3       | 90 % des PV max    |
+
+### Récupération complète
+
+Un personnage peut récupérer 100 % de ses PV uniquement par repos complet, nourriture ou soins médicaux.
+
+### Cas d'un personnage KO
+
+Un personnage tombé à 0 PV ne peut pas récupérer plus de 50 % de ses PV avec magie ou potions.
+
+### Temps de récupération
+
+| Lieu                  | Temps                    |
+|-----------------------|--------------------------|
+| Auberge niveau 1      | 48 heures                |
+| Auberge niveau 2      | 24 heures                |
+| Auberge niveau 3      | 12 heures                |
+| Médecin spécialisé    | Instantané (coût élevé)  |
+
+## 4.7 — Blessures graves : Fracture
+
+La fracture est un état grave représentant une blessure physique importante.
+
+- **Effets** : réduction de FOR, AGI et END.
+- **Conditions d'apparition** : réussite critique d'un adversaire, échec critique, chute importante ou choc violent.
+- Potions et magie peuvent stabiliser la blessure mais ne la guérissent pas totalement.
+
+### Guérison de fracture
+
+| Lieu               | Temps                    |
+|--------------------|--------------------------|
+| Auberge niveau 1   | 48 heures                |
+| Auberge niveau 2   | 24 heures                |
+| Auberge niveau 3   | 12 heures                |
+| Médecin            | Instantané (coût élevé)  |
+
+## 4.8 — Essaims de créatures
+
+- Les essaims de petites créatures sont traités comme une seule entité.
+- Les PV représentent le nombre d'individus.
+- Les créatures de taille moyenne sont traitées comme des individus distincts.
+
+### Boss / Apex / Titan
+
+Ces créatures sont toujours uniques et ne peuvent pas apparaître avec un équivalent de puissance.
+
+## 4.9 — Attaques de zone
+
+- Une attaque de zone affecte toutes les cibles présentes dans la zone.
+- La zone est définie par une case cible et une distance d'expansion.
+- Toutes les cibles subissent les mêmes dégâts.
+- Les cibles peuvent tenter d'esquiver ou de se protéger avec leur réaction.
+
+## 4.10 — Assistance entre joueurs
+
+- Les joueurs peuvent assister un allié s'ils sont à portée d'intervention.
+- Le joueur ayant l'initiative la plus élevée effectue l'action principale.
+- Les autres apportent un bonus d'assistance.
+
+| Assistants | Bonus max          |
+|------------|--------------------|
+| 1          | +1                 |
+| 2          | +2                 |
+| 3 ou plus  | +3 (maximum)       |
+
+## 4.11 — Initiative et égalités
+
+- L'initiative est déterminée par l'AGI.
+- En cas d'égalité, on compare la Chance.
+- Si l'égalité persiste, on utilise le Jet du Destin.
+
+### Jet du Destin
+
+- Le Jet du Destin est un pile ou face.
+- Si plusieurs égalités existent, la résolution se fait en tournoi.
+
+## 4.12 — Modules tactiques (Add-ons)
+
+Certaines règles sont considérées comme optionnelles et peuvent être activées ou retirées sans casser le système.
+
+### Flanking
+
+- **Condition** : deux personnages engagés sur les cases adjacentes d'un ennemi.
+- **Effet** : +1 attaque.
+
+### Encerclement
+
+- **Condition** : trois adversaires ou plus autour d'une cible.
+- **Effet** : avantage tactique naturel sans bonus mécanique supplémentaire.
