@@ -1,14 +1,25 @@
-# README
+# README — ELARIA Core System
 
-Welcome to the ELARIA Project!
+Bienvenue dans le répertoire du système de base d'ELARIA.
 
-## Overview
-This project serves as a core system for the Elaria universe, providing essential rules and guidelines.
+## Structure du répertoire
 
-## Canonical Links
-- [Core Rules](./CANON/CORE_RULES_CANON.md)
+| Dossier / Fichier | Description |
+|-------------------|-------------|
+| [`RULES/`](./RULES/) | Règles lisibles en Markdown (version humaine) |
+| [`ARCHIVES/`](./ARCHIVES/) | Sources originales `BLOC_*.txt` (textes de référence) |
+| [`CANON/`](./CANON/) | Fichier canon compilé |
 
-## Important Notes
-- Ensure to follow the guidelines provided in the canonical links for a complete understanding of the rules.
+## Règles — Index
 
-Thank you for your involvement!
+Consultez l'index des règles en Markdown ici : **[RULES/INDEX.md](./RULES/INDEX.md)**
+
+Chaque fichier du répertoire `RULES/` correspond à un bloc de règles et inclut un lien vers son fichier source dans `ARCHIVES/`.
+
+## Archives
+
+Le répertoire [`ARCHIVES/`](./ARCHIVES/) contient les textes sources originaux (`BLOC_*.txt`) tels qu'ils ont été rédigés. Ces fichiers sont conservés à titre historique et de référence. **Ne pas modifier.**
+
+## Liens canoniques
+
+- [Règles Canon compilées](./CANON/CORE_RULES_CANON.md)
