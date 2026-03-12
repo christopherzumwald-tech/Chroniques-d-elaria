@@ -1,16 +1,28 @@
-# Equipment and States
+Elaria Final 4
 
-This documentation detail the various equipment used in the ELARIA system and their corresponding states. Including both physical and software equipment, the following outlines their status and functionality.
-
-## 1. Equipment
-- Equipment A
-- Equipment B
-- Equipment C
-
-## 2. States
-- State A
-- State B
-- State C
-
-## Additional Information
-Further details can be provided by reaching out to the technical team.
+ELARIA — Bloc 2.3 : Équipement et États
+Dégâts d’armes
+Dague : 1d2
+Arme une main : 1d4
+Arme lourde : 1d8
+Arme distance : 1d4
+Armures
+Aucune : dégâts complets
+Armure légère : -1 dégât
+Armure lourde : -2 dégâts
+Poids
+Dague : 0
+Arme distance : 1
+Arme une main : 2
+Arme lourde : 3
+États majeurs
+Gelé
+Sonné
+Immobilisé
+Aveuglé
+États mineurs
+Enflammé
+Empoisonné
+ Enfumé
+Affaibli
+Ralenti
